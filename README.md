@@ -7,7 +7,7 @@
 - 🎈 I’m currently learning Next.js and Design
 - ⚡ Fun fact: I love to play Rocket League
 
-[discord](https://https://discord.com/users/470974660264067072) | [instagram](https://www.instagram.com/muratvastark)
+[🐦 discord](https://https://discord.com/users/470974660264067072) | [🏡 instagram](https://www.instagram.com/muratvastark)
 
 ### Spotify Playing 🎧
 
