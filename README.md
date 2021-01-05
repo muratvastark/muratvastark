@@ -14,7 +14,7 @@
 
 ### Connect with me:
 
-[<img align="left" alt="Muratva Stark | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />][https://https://discord.com/users/470974660264067072]
+[<img align="left" alt="Muratva Stark | Discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />][https://https://discord.com/users/470974660264067072]
 [<img align="left" alt="Muratva Stark | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][https://www.instagram.com/muratvastark]
 
 <br />
