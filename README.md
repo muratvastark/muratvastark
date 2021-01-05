@@ -4,17 +4,15 @@
 
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 2021 Goals: Contribute more to Open Source projects
+- 🎈 I’m currently learning Next.js and Design
 - ⚡ Fun fact: I love to play Rocket League
+
+[discord]: https://https://discord.com/users/470974660264067072
+[instagram]: https://www.instagram.com/muratvastark
 
 ### Spotify Playing 🎧
 
 [<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="Muratva Stark Spotify Playing" width="350" />](https://open.spotify.com/user/fezs35azf7ja0mdvxv606juk6)
-
-### Connect with me:
-
-[<img align="left" alt="Muratva Stark | Discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />](https://https://discord.com/users/470974660264067072)
-[<img align="left" alt="Muratva Stark | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://www.instagram.com/muratvastark)
 
 <br />
 
