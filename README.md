@@ -3,7 +3,7 @@
 <img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=muratvastark&show_icons=true&hide_title=true&theme=merko">
 
 
-## I'm a Back-End Developer and Student!!
+<h3>I'm a Back-End Developer and Student!!</h3>
 
 - 🌱 Codes ❤ Me
 - 👯 I’m looking to collaborate with other content creators
