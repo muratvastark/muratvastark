@@ -9,9 +9,6 @@
 
 [🐦 discord](https://https://discord.com/users/470974660264067072) | [🏡 instagram](https://www.instagram.com/muratvastark)
 
-### Spotify Playing 🎧
-
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="Muratva Stark Spotify Playing" width="350" />](https://open.spotify.com/user/fezs35azf7ja0mdvxv606juk6)
 
 ### Languages and Tools:
 
@@ -26,6 +23,6 @@
 <br />
 <br />
 
-### :zap: GitHub Stats
+### GitHub Stats
 
 <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=muratvastark&show_icons=true&hide_title=true&theme=merko" />
