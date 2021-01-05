@@ -1,4 +1,4 @@
-### Hi there, I'm Murat K. - aka [Muratva Stark][website] 👋
+### Hi there, I'm Murat K. - aka Muratva Stark 👋
 
 ## I'm a Discord Bot Developer and Student!!
 
