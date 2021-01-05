@@ -2,7 +2,7 @@
 
 ## I'm a Discord Bot Developer and Student!!
 
-- 🌱 I’m currently learning everything 🤣
+- 🌱 Codes ❤ Me
 - 👯 I’m looking to collaborate with other content creators
 - 🎈 I’m currently learning Next.js and Design
 - ⚡ Fun fact: I love to play Rocket League
