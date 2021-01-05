@@ -28,6 +28,6 @@
 <br />
 <br />
 
-<summary>:zap: GitHub Stats</summary>
+### :zap: GitHub Stats
 
 <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=muratvastark&show_icons=true&hide_title=true&theme=tokyonight" />
