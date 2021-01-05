@@ -1,4 +1,7 @@
-### Hi there, I'm Murat K. - aka Muratva Stark 👋
+<h2>Hi there, I'm Murat K. - aka Muratva Stark <img src="https://media.giphy.com/media/Q7LHmoFwVP6Yc1swZs/giphy.gif" height="20px"></h2>
+
+<img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=muratvastark&show_icons=true&hide_title=true&theme=merko">
+
 
 ## I'm a Back-End Developer and Student!!
 
@@ -19,10 +22,3 @@
 [<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />](webdevplaylist)
 [<img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />](webdevplaylist)
 [<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />](webdevplaylist)
-
-<br />
-<br />
-
-### GitHub Stats
-
-<img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=muratvastark&show_icons=true&hide_title=true&theme=merko" />
