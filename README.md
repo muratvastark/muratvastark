@@ -1,6 +1,6 @@
 ### Hi there, I'm Murat K. - aka Muratva Stark 👋
 
-## I'm a Discord Bot Developer and Student!!
+## I'm a Developer and Student!!
 
 - 🌱 Codes ❤ Me
 - 👯 I’m looking to collaborate with other content creators
