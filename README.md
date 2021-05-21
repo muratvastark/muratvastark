@@ -8,4 +8,4 @@ I'm a Full Stack Developer and Student!!
 - 🎈 I’m currently learning NestJS
 - ⚡ Fun fact: I love to play Rocket League
 
-[🐦 discord profile](https://https://discord.com/users/470974660264067072) | [🏡 instagram](https://www.instagram.com/muratvastark) | [✨ discord server](https://discord.gg/RJK6AYBNBD) | ![](https://komarev.com/ghpvc/?username=muratvastark)
+[🐦 discord profile](https://https://discord.com/users/470974660264067072) | [✨ discord server](https://discord.gg/RJK6AYBNBD) | ![](https://komarev.com/ghpvc/?username=muratvastark)
