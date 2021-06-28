@@ -7,7 +7,7 @@
     I develop and share Discord Bots for you to use in my free time.<br>
     I have a great interest in artificial intelligence and chess.<br>
     I love to play Rocket League.<br>
-    <br><img src="https://komarev.com/ghpvc/?username=muratvastark&style=flat&color=ff69b4&label=profile+views">
+    <br><img src="https://komarev.com/ghpvc/?username=muratvastark&style=flat">
     <br><br>:coffee: Wanna chat? :point_right: <a href="https://https://discord.com/users/470974660264067072">Discord</a>
   </samp>
 </p>
