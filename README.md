@@ -1,11 +1,13 @@
-<h2>Hi there, I'm Murat K. - aka Muratva Stark <img src="https://media.giphy.com/media/Q7LHmoFwVP6Yc1swZs/giphy.gif" height="20px"></h2>
-
-<img width="30%" align="right" src="https://github-readme-stats.vercel.app/api?username=muratvastark&title_color=fff&icon_color=F9A2C5&text_color=9f9f9f&bg_color=151515&show_icons=true&hide_border=true&hide=issues&hide_title=true&border_radius=6&hide_rank=true">
-
-I'm a Full Stack Developer and Student!!
-
-- 👯 I’m looking to collaborate with other content creators
-- 🎈 I’m currently learning NestJS
-- ⚡ Fun fact: I love to play Rocket League
-
-[🐦 discord profile](https://https://discord.com/users/470974660264067072) | [✨ discord server](https://discord.gg/RJK6AYBNBD) | ![](https://komarev.com/ghpvc/?username=muratvastark&style=flat&color=ff69b4&label=profile+views)
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/5679180/79618120-0daffb80-80be-11ea-819e-d2b0fa904d07.gif" width="27px">
+  <br><br>
+  <samp>
+    <h2>Hi there, I'm Murat K. - aka Muratva Stark <img src="https://media.giphy.com/media/Q7LHmoFwVP6Yc1swZs/giphy.gif" height="20px"></h2><br>
+    I'm a <em>Full Stack Developer</em> and <em>Student</em>.<br>
+    I develop and share Discord Bots for you to use in my free time.<br>
+    I have a great interest in artificial intelligence and chess.<br>
+    I love to play Rocket League.<br>
+    <img src="https://komarev.com/ghpvc/?username=muratvastark&style=flat&color=ff69b4&label=profile+views">
+    <br><br>:coffee: Wanna chat? :point_right: <a href="https://https://discord.com/users/470974660264067072">Discord</a>
+  </samp>
+</p>
