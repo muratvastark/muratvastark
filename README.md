@@ -8,6 +8,6 @@
     I have a great interest in artificial intelligence and chess.<br>
     I love to play Rocket League.<br>
     <br><img src="https://komarev.com/ghpvc/?username=muratvastark&style=flat">
-    <br><br>:coffee: Wanna chat? :point_right: <a href="https://https://discord.com/users/470974660264067072">Discord</a>
+    <br><br>:coffee: Wanna chat? :point_right: <a href="https://www.instagram.com/muratvastark/">Instagram</a>
   </samp>
 </p>
