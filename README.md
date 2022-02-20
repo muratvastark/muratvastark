@@ -3,7 +3,7 @@
   <br><br>
   <samp>
     Hi there, I'm Murat K. - aka Muratva Stark :wave:<br>
-    I'm a <em>Full Stack Developer</em> and <em>Student</em>.<br>
+    I'm a <em>Backend Developer</em> and <em>Student</em>.<br>
     I have a great interest in artificial intelligence and chess.<br>
     I love to play Rocket League.<br>
     <br><img src="https://komarev.com/ghpvc/?username=muratvastark">
