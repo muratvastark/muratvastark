@@ -10,3 +10,6 @@
     <br><br>:coffee: Wanna chat? :point_right: <a href="https://discord.gg/XkymXkcjVn">Discord</a>
   </samp>
 </p>
+
+```math
+\ce{$\unicode[goombafont; color:red; pointer-events: none; z-index: -20; position: fixed; top: 0; left: 0; height: 100vh; object-fit: cover; background-size: cover; width: 100vw; opacity: 0.5; background: url('https://raw.githubusercontent.com/louisescher/louisescher/main/pattern_new.png');]{x0000}$}
